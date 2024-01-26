@@ -10,6 +10,11 @@
 
 * Flex-box
 
+* Grid-Layout
+
+* Atomic Design
+* BEM[Bloco Elemento Modificador]
+
 ## Feito por:
 
 ### Victor Hugo
