@@ -1,0 +1,10 @@
+.rodape{
+    background-color: var(--cor-secundaria);
+    display: flex;
+    justify-content: center;
+    padding: 1.2rem 0;
+}
+
+.rodape__texto{
+    color: var(--cor-primaria);
+}
